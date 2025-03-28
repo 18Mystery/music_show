@@ -1,0 +1,1 @@
+import{_ as s,c as o,d as t,o as n}from"./index-Ci3PLr0-.js";const r={},c={class:"login"};function a(_,e){return n(),o("div",c,e[0]||(e[0]=[t("h3",null,"注册",-1)]))}const l=s(r,[["render",a]]);export{l as default};
